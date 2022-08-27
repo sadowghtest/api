@@ -1,3 +1,14 @@
 {
-  "State": {"GP0":false,"GP1":false,"GP2":false,"GP3":false,"GP4":false,"GP5":false,"GP6":false,"GP7":false,"GP8":false,"GP9":false,"GP10":false,"GP11":false,"GP12":false,"GP13":false,"GP14":false,"GP15":false,"GP16":false,"GP17":false,"GP18":false,"GP19":false,"GP20":false,"GP21":false,"GP22":false,"GP26":false,"GP27":false,"GP28":false,"GP32":true}
+  "State": {
+    "GP0": { "boolean": {} },
+    "GP1": { "boolean": {} },
+    "GP2": { "boolean": {} },
+    "GP3": { "boolean": {} },
+    "GP4": { "boolean": {} },
+    "GP5": { "boolean": {} },
+    "GP6": { "boolean": {} },
+    "GP7": { "boolean": {} },
+    "GP8": { "boolean": {} },
+    "GP9": { "boolean": {} }
+  }
 }
